@@ -73,7 +73,7 @@ Dashboard:
 
 BI tools (Power BI, Tableau) or custom frontend (React/Flask).
 
-Visualizes feature-level drift, concept drift patterns, and model performance trends.
+Visualizes feature-level drift, concept drift patterns,model performance trends and token used.
 
 🔹 7. Alerts & Decision Integration (Optional)
 
